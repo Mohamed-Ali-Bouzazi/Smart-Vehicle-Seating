@@ -48,9 +48,7 @@ Try the simulation live on Wokwi:
 | Empty Seat | System Sleep | ✅ Pass |
 
 ## 👥 Team
-- [Student Name 1]
-- [Student Name 2]
-- [Student Name 3]
+- Mohamed Ali
 
 ## 📄 License
 This project is licensed under the MIT License.
